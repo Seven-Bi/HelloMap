@@ -1,9 +1,31 @@
 #root {
 	height: 100%;
+	width: 100%;
 }
 
 #map {
+	height: 85%;
+	width: 100%;
+}
+
+#my_map{
+	height: 85%;
+	width: 100%;
+}
+
+#input {
+	height: 10%;
+	width: 100%;
+}
+
+#liner {
+	height: 5%;
+	width: 100%;
+}
+
+#view {
 	height: 100%;
+	width: 100%;
 }
 
 /* Optional: Makes the sample page fill the window. */
