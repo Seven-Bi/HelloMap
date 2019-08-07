@@ -9,7 +9,7 @@ export function load_google_apis() {
 			delete window.resolveGoogleMapsPromise;
 		}
 		const script = document.createElement('script');
-		script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZmXexs5hg2XVrUACP30BKr4xHkCFR_ss&'+
+		script.src = 'https://maps.googleapis.com/maps/api/js?key={your key}&'+
 		'callback=resolveGoogleMapsPromise'
 		script.async = true;
 		document.body.appendChild(script);
