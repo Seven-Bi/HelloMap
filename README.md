@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-'''Before you move down, you have to make sure having a proper google map key otherwise can't load
-map correctly!'''
+```Before you move down, you have to make sure having a proper google map key otherwise can't load
+map correctly!```
 
 In the project directory, you can run:
 
