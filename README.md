@@ -3,10 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Upstream vs Origin](https://github.com/Seven-Bi/HelloMap/blob/master/images/screenshot.png)
 
 
-## Before you move down, you have to make sure having a proper google map key otherwise can't load map correctly!
+```Before you move down, you have to make sure having a proper google map key otherwise can't load map correctly!```
 
-
-## Available Scripts
 
 In the project directory, you can run:
 
